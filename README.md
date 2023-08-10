@@ -30,5 +30,3 @@ Exemplo/Sugestão de mensagem a exibir para classificação superio e inferior a
 <p></p>
 
 
-![mensagem](https://user-images.githubusercontent.com/66698429/225436483-20234ade-8dbd-4136-99be-d255fe20e5a4.PNG)
-
